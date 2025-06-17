@@ -309,3 +309,75 @@ Für Support und Fragen:
 
 *Ein professionelles, skalierbares und benutzerfreundliches Web-System für moderne Reinigungsdienstleistungen.*
 
+
+# Glanzpunkt Project
+
+This repository contains the complete source code for the Glanzpunkt project, which includes:
+
+- **Glanzpunkt Website**: A professional cleaning company website built with React.
+- **Glanzpunkt Admin Panel**: An administrative panel for managing the website content, services, and bookings, built with React.
+- **Glanzpunkt Admin Backend**: A Flask-based backend API for the admin panel and website.
+
+## Project Structure
+
+- `glanzpunkt-website/`: Contains the source code for the main website.
+- `glanzpunkt-admin-panel/`: Contains the source code for the admin panel.
+- `glanzpunkt-admin-backend/`: Contains the source code for the backend API.
+
+## How to Run the Project
+
+### 1. Backend (glanzpunkt-admin-backend)
+
+```bash
+cd glanzpunkt-admin-backend
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python init_db.py
+python src/main.py
+```
+
+### 2. Admin Panel (glanzpunkt-admin-panel)
+
+```bash
+cd glanzpunkt-admin-panel
+pnpm install
+pnpm run dev
+```
+
+### 3. Main Website (glanzpunkt-website)
+
+```bash
+cd glanzpunkt-website
+pnpm install
+pnpm run dev
+```
+
+## Accessing the Applications
+
+- **Main Website**: `http://localhost:5173`
+- **Admin Panel**: `http://localhost:5174` (Login with `admin` / `admin123`)
+- **Backend API**: `http://localhost:5000`
+
+## Features
+
+- Professional website with 8 main sections.
+- Integrated online booking system with smart price calculator.
+- Interactive FAQ section.
+- Advanced notification system.
+- 100% responsive design.
+- Attractive animations and smooth interactive effects.
+- Comprehensive admin interface with German and Arabic language support.
+- Full management capabilities for services, bookings, and content.
+- Secure authentication system.
+- Integrated backend API with database.
+
+## Languages
+
+- **Website**: German (primary)
+- **Admin Panel**: German and Arabic
+
+## Contact
+
+For any questions or issues, please contact [Your Name/Email/GitHub Profile].
+

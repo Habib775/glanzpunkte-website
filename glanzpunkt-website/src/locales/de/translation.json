@@ -1,0 +1,206 @@
+{
+  "header": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "offers": "Angebote",
+    "bookService": "Service buchen",
+    "callUs": "Anrufen",
+    "language": "Sprache"
+  },
+  "hero": {
+    "title": "Reinigung mit professioneller Note",
+    "subtitle": "Perfekte Ergebnisse für Ihre Zufriedenheit",
+    "description": "Wir bieten professionelle Reinigungsdienstleistungen für Ihr Zuhause, Büro und Ihre Geschäftsräume. Unser erfahrenes Team sorgt für makellose Sauberkeit mit umweltfreundlichen Produkten.",
+    "bookNow": "Jetzt buchen",
+    "getQuote": "Kostenvoranschlag erhalten",
+    "learnMore": "Mehr erfahren"
+  },
+  "whyChooseUs": {
+    "title": "Warum Glanzpunkt wählen?",
+    "subtitle": "Ihre Zufriedenheit ist unser Erfolg",
+    "features": {
+      "professionalTeam": {
+        "title": "Geschultes und professionelles Team",
+        "description": "Unser Team besteht aus erfahrenen und zertifizierten Reinigungskräften"
+      },
+      "experience": {
+        "title": "Jahrelange Erfahrung im Reinigungsbereich",
+        "description": "Über 10 Jahre Erfahrung in der professionellen Reinigungsbranche"
+      },
+      "ecoFriendly": {
+        "title": "Umweltfreundliche Materialien und Produkte",
+        "description": "Wir verwenden nur umweltschonende und sichere Reinigungsprodukte"
+      },
+      "competitivePrices": {
+        "title": "Wettbewerbsfähige und transparente Preise",
+        "description": "Faire Preise ohne versteckte Kosten"
+      },
+      "customerSatisfaction": {
+        "title": "Kundenzufriedenheit hat höchste Priorität",
+        "description": "Ihre Zufriedenheit ist unser wichtigstes Ziel"
+      },
+      "punctuality": {
+        "title": "Schnelle Reaktion und pünktliches Erscheinen",
+        "description": "Wir sind immer pünktlich und zuverlässig"
+      }
+    }
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "subtitle": "Professionelle Reinigung für jeden Bedarf",
+    "viewAll": "Alle Dienstleistungen anzeigen",
+    "bookService": "Service buchen",
+    "getQuote": "Angebot anfordern",
+    "types": {
+      "residential": {
+        "title": "Gebäude- und Hausreinigung",
+        "description": "Komplette Reinigung für Ihr Zuhause mit höchster Qualität"
+      },
+      "office": {
+        "title": "Büroreinigung",
+        "description": "Professionelle Büroreinigung für eine produktive Arbeitsumgebung"
+      },
+      "hotel": {
+        "title": "Hotelreinigung (Housekeeping)",
+        "description": "Spezialisierte Reinigungsdienstleistungen für Hotels und Gastgewerbe"
+      },
+      "construction": {
+        "title": "Baureinigung",
+        "description": "Gründliche Reinigung nach Bau- und Renovierungsarbeiten"
+      },
+      "window": {
+        "title": "Glas- und Fassadenreinigung",
+        "description": "Professionelle Fenster- und Fassadenreinigung für kristallklare Ergebnisse"
+      },
+      "crime": {
+        "title": "Tatortreinigung",
+        "description": "Spezialisierte und diskrete Reinigung von Tatorten"
+      }
+    }
+  },
+  "statistics": {
+    "title": "Unsere Erfolge in Zahlen",
+    "projectsCompleted": "Abgeschlossene Projekte",
+    "satisfiedCustomers": "Zufriedene Kunden",
+    "teamMembers": "Teammitglieder",
+    "yearsExperience": "Jahre Erfahrung"
+  },
+  "testimonials": {
+    "title": "Was unsere Kunden sagen",
+    "subtitle": "Echte Bewertungen von zufriedenen Kunden",
+    "readMore": "Mehr lesen",
+    "shareExperience": "Erfahrung teilen"
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Wir sind hier, um Ihnen zu helfen",
+    "address": "Adresse",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "workingHours": "Öffnungszeiten",
+    "getInTouch": "Kontakt aufnehmen",
+    "sendMessage": "Nachricht senden",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "send": "Senden",
+      "sending": "Wird gesendet...",
+      "success": "Nachricht erfolgreich gesendet!",
+      "error": "Fehler beim Senden der Nachricht"
+    }
+  },
+  "serviceAreas": {
+    "title": "Unsere Servicegebiete",
+    "subtitle": "Wir sind in Ihrer Nähe",
+    "checkAvailability": "Verfügbarkeit prüfen",
+    "enterPostalCode": "Postleitzahl eingeben",
+    "check": "Prüfen"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Antworten auf die wichtigsten Fragen",
+    "searchPlaceholder": "Frage suchen...",
+    "noResults": "Keine Ergebnisse gefunden",
+    "categories": {
+      "general": "Allgemein",
+      "services": "Dienstleistungen",
+      "pricing": "Preise",
+      "booking": "Buchung"
+    }
+  },
+  "offers": {
+    "title": "Aktuelle Angebote",
+    "subtitle": "Sparen Sie bei unseren Dienstleistungen",
+    "validUntil": "Gültig bis",
+    "useCode": "Code verwenden",
+    "termsApply": "Es gelten die Geschäftsbedingungen"
+  },
+  "booking": {
+    "title": "Service buchen",
+    "subtitle": "Buchen Sie Ihren Reinigungsservice in wenigen Schritten",
+    "steps": {
+      "selectService": "Service auswählen",
+      "selectDateTime": "Datum & Zeit wählen",
+      "enterDetails": "Details eingeben",
+      "confirmation": "Bestätigung"
+    },
+    "form": {
+      "selectService": "Dienstleistung auswählen",
+      "selectDate": "Datum auswählen",
+      "selectTime": "Uhrzeit auswählen",
+      "address": "Adresse",
+      "additionalNotes": "Zusätzliche Hinweise",
+      "contactInfo": "Kontaktdaten",
+      "confirmBooking": "Buchung bestätigen",
+      "bookingNumber": "Buchungsnummer",
+      "status": "Status"
+    }
+  },
+  "footer": {
+    "company": "Unternehmen",
+    "services": "Dienstleistungen",
+    "support": "Support",
+    "legal": "Rechtliches",
+    "followUs": "Folgen Sie uns",
+    "newsletter": "Newsletter",
+    "newsletterText": "Abonnieren Sie unseren Newsletter für Updates und Angebote",
+    "subscribe": "Abonnieren",
+    "allRightsReserved": "Alle Rechte vorbehalten",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen",
+    "cookiePolicy": "Cookie-Richtlinie"
+  },
+  "common": {
+    "loading": "Wird geladen...",
+    "error": "Fehler",
+    "success": "Erfolgreich",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "view": "Anzeigen",
+    "close": "Schließen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "previous": "Vorherige",
+    "search": "Suchen",
+    "filter": "Filter",
+    "sort": "Sortieren",
+    "share": "Teilen",
+    "print": "Drucken",
+    "download": "Herunterladen",
+    "upload": "Hochladen",
+    "yes": "Ja",
+    "no": "Nein",
+    "ok": "OK",
+    "confirm": "Bestätigen"
+  }
+}
+

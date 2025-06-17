@@ -1,0 +1,206 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "offers": "Offers",
+    "bookService": "Book Service",
+    "callUs": "Call Us",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Cleaning with Professional Touch",
+    "subtitle": "Perfect Results Ensuring Your Comfort",
+    "description": "We provide professional cleaning services for your home, office, and business premises. Our experienced team ensures spotless cleanliness with eco-friendly products.",
+    "bookNow": "Book Now",
+    "getQuote": "Get Quote",
+    "learnMore": "Learn More"
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Glanzpunkt?",
+    "subtitle": "Your satisfaction is our success",
+    "features": {
+      "professionalTeam": {
+        "title": "Trained and Professional Team",
+        "description": "Our team consists of experienced and certified cleaning professionals"
+      },
+      "experience": {
+        "title": "Years of Experience in Cleaning",
+        "description": "Over 10 years of experience in the professional cleaning industry"
+      },
+      "ecoFriendly": {
+        "title": "Eco-friendly Materials and Products",
+        "description": "We use only environmentally safe cleaning products"
+      },
+      "competitivePrices": {
+        "title": "Competitive and Transparent Prices",
+        "description": "Fair prices with no hidden costs"
+      },
+      "customerSatisfaction": {
+        "title": "Customer Satisfaction is Top Priority",
+        "description": "Your satisfaction is our most important goal"
+      },
+      "punctuality": {
+        "title": "Quick Response and Punctual Arrival",
+        "description": "We are always punctual and reliable"
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Professional cleaning for every need",
+    "viewAll": "View All Services",
+    "bookService": "Book Service",
+    "getQuote": "Get Quote",
+    "types": {
+      "residential": {
+        "title": "Building and Home Cleaning",
+        "description": "Complete home cleaning with the highest quality"
+      },
+      "office": {
+        "title": "Office Cleaning",
+        "description": "Professional office cleaning for a productive work environment"
+      },
+      "hotel": {
+        "title": "Hotel Cleaning (Housekeeping)",
+        "description": "Specialized cleaning services for hotels and hospitality"
+      },
+      "construction": {
+        "title": "Construction Site Cleaning",
+        "description": "Thorough cleaning after construction and renovation work"
+      },
+      "window": {
+        "title": "Glass and Facade Cleaning",
+        "description": "Professional window and facade cleaning for crystal clear results"
+      },
+      "crime": {
+        "title": "Crime Scene Cleaning",
+        "description": "Specialized and discreet crime scene cleaning"
+      }
+    }
+  },
+  "statistics": {
+    "title": "Our Success in Numbers",
+    "projectsCompleted": "Completed Projects",
+    "satisfiedCustomers": "Satisfied Customers",
+    "teamMembers": "Team Members",
+    "yearsExperience": "Years of Experience"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Real reviews from satisfied customers",
+    "readMore": "Read More",
+    "shareExperience": "Share Experience"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to help you",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "workingHours": "Working Hours",
+    "getInTouch": "Get in Touch",
+    "sendMessage": "Send Message",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Error sending message"
+    }
+  },
+  "serviceAreas": {
+    "title": "Our Service Areas",
+    "subtitle": "We are near you",
+    "checkAvailability": "Check Availability",
+    "enterPostalCode": "Enter Postal Code",
+    "check": "Check"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to the most important questions",
+    "searchPlaceholder": "Search question...",
+    "noResults": "No results found",
+    "categories": {
+      "general": "General",
+      "services": "Services",
+      "pricing": "Pricing",
+      "booking": "Booking"
+    }
+  },
+  "offers": {
+    "title": "Current Offers",
+    "subtitle": "Save on our services",
+    "validUntil": "Valid until",
+    "useCode": "Use Code",
+    "termsApply": "Terms and conditions apply"
+  },
+  "booking": {
+    "title": "Book Service",
+    "subtitle": "Book your cleaning service in a few steps",
+    "steps": {
+      "selectService": "Select Service",
+      "selectDateTime": "Select Date & Time",
+      "enterDetails": "Enter Details",
+      "confirmation": "Confirmation"
+    },
+    "form": {
+      "selectService": "Select Service",
+      "selectDate": "Select Date",
+      "selectTime": "Select Time",
+      "address": "Address",
+      "additionalNotes": "Additional Notes",
+      "contactInfo": "Contact Information",
+      "confirmBooking": "Confirm Booking",
+      "bookingNumber": "Booking Number",
+      "status": "Status"
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "services": "Services",
+    "support": "Support",
+    "legal": "Legal",
+    "followUs": "Follow Us",
+    "newsletter": "Newsletter",
+    "newsletterText": "Subscribe to our newsletter for updates and offers",
+    "subscribe": "Subscribe",
+    "allRightsReserved": "All rights reserved",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "share": "Share",
+    "print": "Print",
+    "download": "Download",
+    "upload": "Upload",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK",
+    "confirm": "Confirm"
+  }
+}
+
